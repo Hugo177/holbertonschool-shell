@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir
+mkdir "$dir_path"
+echo "Created the directory '$dir_path'."
